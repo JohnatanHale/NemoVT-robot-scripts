@@ -1,6 +1,6 @@
 # Salvataggio e condivisione dati
 
-## Come Funziona
+## Come funziona
 Si basa su MQTT, un protocollo TCP per lo scambio di dati che si distingue per non essere vincolato dalla rete.
 
 Per avere accesso alla comunicazione bisogna possedere un certificato.
