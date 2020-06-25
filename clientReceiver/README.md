@@ -12,7 +12,7 @@ Come avviene la comunicazione tra gli host:
 2. Il client messo in ascolto allo stesso topic acquisisce i dati, successivamente inseriti in file csv.
 3. Il dataset viene caricato su Google Drive automaticamente dal client.
 
-## Liberie usate
+## Liberie utilizzate
 + google-api-python-client
 + google-auth-oauthlib
 + tqdm
