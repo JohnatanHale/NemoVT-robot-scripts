@@ -4,8 +4,8 @@ from mqtt import MQTTClient
 #Quando halocode si accende
 @event.start
 def on_start():
-    ssid = 'YF3648'
-    password = 'YF20992099'
+    ssid = ''       #nome della rete
+    password = ''   #password
     
     #Connessione alla rete
     print('Connessione al Wi-Fi %s...' % ssid)
