@@ -12,6 +12,10 @@ Inoltre, dal momento che vengono memorizzati su un cloud, garantisce una maggior
 
 ### Design
 La scelta di materiali riciclati è dovuta al desiderio di salvaguardare l'ambiente.
+Anche dagli oggetti più comuni possono nascere progetti creativi.
+
+### Applicazione
+È possibile controllare il robot da remoto, tramite l'applicazione realizzata da un componente del team.
 
 ### Video Presentazione
 Perché le polveri sottili? Come è stato realizzato il prototipo? Qual è l'obiettivo del Team?
