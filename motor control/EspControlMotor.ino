@@ -2,8 +2,8 @@
 #include <MQTT.h>
 
 //Credenziali della rete
-#define ssid "YF3648"
-#define password "YF20992099"
+#define ssid ""         //nome della rete
+#define password ""     //password
 
 //Credenziali per il protocollo MQTT
 #define broker "test.mosquitto.org"
