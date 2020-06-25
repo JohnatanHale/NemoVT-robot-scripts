@@ -15,7 +15,7 @@ La scelta di materiali riciclati è dovuta al desiderio di salvaguardare l'ambie
 Anche dagli oggetti più comuni possono nascere progetti creativi.
 
 ### Applicazione
-È possibile controllare il robot da remoto, tramite l'[!applicazione](https://github.com/JohnatanHale/NemoVT-motor-control-app)
+È possibile controllare il robot da remoto, tramite l'[applicazione](https://github.com/JohnatanHale/NemoVT-motor-control-app)
 realizzata da un componente del team.
 
 ### Video Presentazione
