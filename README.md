@@ -20,4 +20,4 @@ realizzata da un componente del team.
 
 ### Video Presentazione
 Perché le polveri sottili? Come è stato realizzato il prototipo? Qual è l'obiettivo del Team?
-Link al video:
+Link al video: https://www.youtube.com/watch?v=SEoWBkG-Mi0
