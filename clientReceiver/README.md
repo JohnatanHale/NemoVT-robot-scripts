@@ -3,7 +3,7 @@
 ## Come funziona
 Si basa su MQTT, un protocollo TCP per lo scambio di dati che si distingue per non essere vincolato dalla rete.
 
-Per avere accesso alla comunicazione bisogna possedere un certificato.
+Per avere accesso alla comunicazione bisogna possedere un certificato crittografato in RSA, che garantisce la privacy e la sicurezza di dati, gestita dal protocllo TLS. I dati dell'utente sono quindi perfettamente al sicuro e protetti.
 
 Il salvataggio di dati avviene dopo un breve periodo di tempo di raccolta dati.
 
